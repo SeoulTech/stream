@@ -1,51 +1,53 @@
-# SeoulTech christmass party 2014
+# LaunchLab
 
-Responsible: @victoria-bondarchuk
+Responsible: @kolyaak
+
+Draft on meetup: http://www.meetup.com/seoul-tech-society/events/219170649/
 
 ## What
-Cristmass party consists of:
- - art (resedent artist installation)
- - video TBD by Victoria
- - music TBD Ilya & Alex
+As first step of knowledge transfer series to spread a word and hire teams.
 
 ## Where
-Platoon Koonsthalle
+TBD
 
 ## When
-Before it's closed, 12.12.14, 8pm
-
+Jan, 10 (see the overall schedule of knowledge transfer series)
 
 ## Official description
-SEOUL TECH VER 2.0  + ART Party
+What is LaunchLab?
+As part of knowledge transfer series(xxx.seoultechsociety.org), SeoulTech with MIT REAP Korea partnership is proud to announce the LaunchLab kick off event.  Researchers, entrepreneurs and innovators discuss and propose (any) project, and solicit ideas and help from other SeoulTech members. They can further apply to participate in the program of knowledge transfer series.
 
-SEOUL TECH VER 2.0 + ART w/media artist Lee Rahm and sound performer Sunghyun Cho.
-This pre-christmas party w/ SeoulTech and art exhibit, featuring media artists Lee Rahm and sound performer Sunghyun Cho offers a perfect opportunity to connect with others who love tech and art. 
-The worlds of art and technology are coming together! On December 12, Platoon Kunsthalle will host "Name" Exhibit by resident  Lee Rahm and we will also have a chance to enjoy a performance by Sunghyun Cho, media artist and performer. 
+Why?
+LaunchLab helps members take one giant leap beyond networking. These events allow members to get involved with the creation of new ideas or startups, while forging friendships and business partnerships to last a lifetime. 
 
-<poster>
+How? 
+The event features a group of speakers that give a 10 to 15 minute presentation of their idea. The audience then discusses the idea. Audience members can also choose to join or further contribute to the project.
 
+Open discussion sessions will also be available, so if anyone gets inspired they can share and discuss their ideas with the group.
 
+When?
+TBD
 
+14:00 - 18:00: Presentations + Discussion + Coffee/Beer/Snacks
 
-Lee Rahm
+18:00 - 20:00: Dinner 
 
-Rahm (Hyunjung Lee) is one of resident artists at Platoon and filmmaker. She will display her art work in all four showcases (pictures and flat screens) and one larger installation will hang from the ceiling in the stage area. 
-http://www.leerahm.com/
+Call for projects and proposals!
+If you are a researcher, startup founder, entrepreneur, idea generator, or dreamer, sign up to be a speaker!
 
+Note: This event is part of knowledge transfer series. For more information about the program, please refer to the web-page xxx.seoultechsociety.org
 
-![Lee Rahm artwork](http://static.wixstatic.com/media/53315f_58719342ebe544acbf9e977cc4744f0c.png_1024)
+Address in Korean:  
+Address in English: 
 
+Map: 
 
+Current Schedule:
 
+• 14:00 - 14:15 Welcome to 'Launch Lab'
 
+• 14:15 - 14:30 
 
-Sunghyun Cho
-
-Sunghyun Choʼs performative installations have their origin in the perceptive experience of nature, somewhat resembling the early experiences of an infant exploring his or her surroundings. The recurring themes of his works examine the notions of communication, forms generated from the dynamics of nature, and the relationship between space and sound.
-
-http://sunghyuncho.com 
-
-![Sunghyun Cho artwork #1](http://3.bp.blogspot.com/-GDtRQdvKAPk/UWHxnRSKW4I/AAAAAAAACEw/2c78wQb__2k/s1600/1_830*306%25281%2529.jpg)
 
 
 

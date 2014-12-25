@@ -17,4 +17,4 @@ Stream is a new, experimental series by Seoul Tech Society. We come from a wide 
 
 ## Contact
 contacts[at]seoultechsociety.org  
-Got a question or intreted to sponsor, send an email
+Got a question or intrested to sponsor, send an email

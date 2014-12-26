@@ -1,4 +1,4 @@
-Step Up.
+Step Up
 ====================
 Show your progress to the word and get connected to the Korean innovation ecosystem.
 - From January to June we will hold mini-conferences every month.

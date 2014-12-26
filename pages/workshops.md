@@ -1,4 +1,4 @@
-Learn & Share.
+Learn & Share
 ====================
 Develop your ideas further by joining informal workshops every two weeks.
 - We are going to be following the MIT curriculum for innovation and entrepreneurship.

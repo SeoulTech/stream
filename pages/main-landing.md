@@ -7,10 +7,10 @@ Do you have an early-stage idea? Join six-month stream program, build a team and
 </button>
 
 <button>
-  [Learn & Share](https://github.com/SeoulTech/stream/blob/gh-pages/workshops-page.md)
+  [Learn & Share](https://docs.google.com/forms/d/1u_SwVBV7U9XaDMs09zykH9ObbXUqeM2oUhqROiHeGyg/viewform?usp=send_form)
 </button>
 
 <button>
-  [Step up](https://github.com/SeoulTech/stream/blob/gh-pages/miniconf-page.md)
+  [Step up](https://docs.google.com/forms/d/1TDL-oARHKQfQdf7cqJcgGpGnmQgFGiCfxvSlNkb68gE/viewform?usp=send_form)
 </button>
 

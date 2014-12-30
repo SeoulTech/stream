@@ -9,7 +9,7 @@ As part of Stream - knowledge implementation program, SeoulTech is proud to anno
 
 They present early-stage ideas to get feedback from the audience and recruit new members to further develop their ideas during six months Stream program. There will be six presentations total, but this is not a competition. The goal is to share ideas and to learn from each other.
 
-<Poster>
+![Poster](https://github.com/SeoulTech/stream/blob/master/10-jan/launchlab/LaunchLab2.jpeg)
 ## Why?
 This program allow members  to get involved with the creation of new ideas or startups, while forging friendships and business partnerships to last a lifetime. 
 
@@ -25,24 +25,24 @@ If you are curious about joining a team or just want to listen and learn, then p
 ##When?
 Jan 17th, 2015
 
-16:00 - 18:30: Presentations + Discussion
-18:30 - 20:00: Dinner 
-20:00 - 22:00: After-party and networking 
+16:00 - 18:30: Presentations + Discussion  
+18:30 - 20:00: Dinner   
+20:00 - 22:00: After-party and networking   
 
 ## Where?
-Address in Korean: TBD
-Address in English: TBD
+Address in Korean: TBD  
+Address in English: TBD  
 
 ## Map: TBD
 
 Current Schedule:
-• 16:00 - 16:15 Welcome to 'Launch Lab' and Stream introduction
-• 16:15 - 16:25 Nathan
-• 16:30 - 16:40 Todd
-• 16:45 - 16:55 TBD
-• 17:00 - 17:10 TBD
-• 17:15 - 17:25 TBD
-• 17:30 - 17:40 TBD
+• 16:00 - 16:15 Welcome to 'Launch Lab' and Stream introduction  
+• 16:15 - 16:25 Nathan  
+• 16:30 - 16:40 Todd  
+• 16:45 - 16:55 TBD  
+• 17:00 - 17:10 TBD  
+• 17:15 - 17:25 TBD  
+• 17:30 - 17:40 TBD  
 • 17:50 - 18:30 Idea Open Mic
 
 

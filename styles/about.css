@@ -1,0 +1,12 @@
+/*************************** about-page ***************************/
+
+.about {
+  text-align: center;
+  height: 100%;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.about > p {
+  text-align:justify;
+}

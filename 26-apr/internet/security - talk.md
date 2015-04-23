@@ -1,7 +1,11 @@
 # open questions
+which technologies focus academia?  
+which direction looking industry?  
 
 # outline
-un big data project
+cyber underground economy, botnet (Max), cyberwar (Stuxnet), mobiles
+un big data project  
+
 
 # help
 letter to Paul

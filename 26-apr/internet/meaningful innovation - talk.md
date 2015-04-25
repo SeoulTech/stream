@@ -3,6 +3,7 @@
 - Where do you think the fundamental technologies would be created?
 - [to researches] Why would you want to create a company?
 - [to companies] Would your company invest in long-term research?
+- Why one company buys solutions and another develop internals?
 
 ## goal
 Inspire for meaningful innovation (scientists and researchers).    
@@ -37,6 +38,7 @@ value creation
 	- not sharing (ATT)
 	- buying (Samsung)
 	- internal (LG)
+	- CTO planning
 - companies and universities
 	- my experience in Korea and Russia
 	- archived projects
